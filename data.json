@@ -1,0 +1,13 @@
+{
+    "semaforo_1": {
+      "estado": "rojo",
+      "vehiculos": 10,
+      "tiempo": 30
+    },
+    "semaforo_2": {
+      "estado": "verde",
+      "vehiculos": 5,
+      "tiempo": 20
+    }
+  }
+  
