@@ -4,7 +4,7 @@ import openai
 import os
 
 # Carga la API key desde una variable de entorno (mejor seguridad)
-OPENAI_API_KEY = os.getenv("ingresa la api acá juanda")
+OPENAI_API_KEY = os.getenv(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)
 
 if not OPENAI_API_KEY:
     raise ValueError("Debes definir la variable de entorno OPENAI_API_KEY con tu clave de OpenAI.")
